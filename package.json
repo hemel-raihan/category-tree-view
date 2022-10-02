@@ -1,0 +1,26 @@
+{
+  "name": "category-tree-view",
+  "version": "1.0.0",
+  "description": "this is unlimited categories, sub-categories in the dropdown select with tree view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemel-raihan/category-tree-view.git"
+  },
+  "keywords": [
+    "ctw"
+  ],
+  "author": "hemel raihan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemel-raihan/category-tree-view/issues"
+  },
+  "homepage": "https://github.com/hemel-raihan/category-tree-view#readme",
+  "dependencies": {
+    "react-bootstrap": "^2.5.0",
+    "user": "^0.0.0"
+  }
+}
